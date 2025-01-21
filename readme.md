@@ -17,7 +17,7 @@
 
 | 김희원                                                                     | 박자은                                                           | 정재명                                                          |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![김희원](![Profile](https://avatars.githubusercontent.com/u/65596779?v=4) | ![박자은](https://avatars.githubusercontent.com/u/105774739?v=4) | ![정재명](https://avatars.githubusercontent.com/u/44443949?v=4) |
+| ![Profile](https://avatars.githubusercontent.com/u/65596779?v=4) | ![박자은](https://avatars.githubusercontent.com/u/105774739?v=4) | ![정재명](https://avatars.githubusercontent.com/u/44443949?v=4) |
 | [@heewon1104](https://github.com/heewon1104)                               | [@ddoavoca](https://github.com/ddoavoca)                         | [@jjm159](https://github.com/jjm159)                            |
 
 ## 역할
